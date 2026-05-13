@@ -1,0 +1,15 @@
+{
+	"name": "Dev-Datafactory1405",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a6422f63-a731-488b-9293-4ffc9544c364",
+		"tenantId": "787a4de6-90b6-4c15-891f-556c7e765061"
+	}
+}
